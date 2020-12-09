@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ReactiveXAndroid05102020"
